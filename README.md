@@ -4,7 +4,7 @@
 
 Time spent: **5** hours spent in total
 
-## User Stories
+## Part 1 User Stories
 
 The following **required** functionality is completed:
 
@@ -27,9 +27,39 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Notes
+## Notes: Part 1
 
 The project was challenging but enjoyable. Even though I struggled with Glide implementation in the build gradle file, I was able to work through with the help of available resources
+
+## Part 2 User Stories
+
+Time spent: **2** hours spent in total
+
+The following **required** functionality is completed:
+
+- [x] User can **compose and post a new tweet**
+  - [x] User can click a “Compose” icon in the Action Bar on the top right
+  - [x] User can then enter a new tweet and post this to twitter
+  - [x] User is taken back to home timeline with **new tweet visible** in timeline
+  - [x] Newly created tweet should be manually inserted into the timeline and not rely on a full refresh
+  - [x] User can **see a counter with total number of characters left for tweet** on compose tweet page
+
+The following **optional** features are implemented:
+
+- [x] Use Parcelable instead of Serializable using the popular [Parceler library](http://guides.codepath.org/android/Using-Parceler).
+- [x] User can **open the twitter app offline and see last loaded tweets**. Persisted in SQLite tweets are refreshed on every application launch. While "live data" is displayed when app can get it from Twitter API, it is also saved for use in offline mode.
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+## Notes
+
+Describe any challenges encountered while building the app.
 
 ## Open-source libraries used
 
