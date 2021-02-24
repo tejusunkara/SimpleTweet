@@ -29,7 +29,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes: Part 1
 
-The project was challenging but enjoyable. Even though I struggled with Glide implementation in the build gradle file, I was able to work through with the help of available resources
+Part 1 of the project was challenging but enjoyable. Even though I struggled with Glide implementation in the build gradle file, I was able to work through with the help of available resources
 
 ## Part 2 User Stories
 
@@ -53,13 +53,14 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough_part2.gif' title='Walkthrough: adding tweets' width='' alt='Video Walkthrough' />
+<img src='walkthrough_part2_offline.gif' title='Walkthrough: offline tweets' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Part 2 was straight forward and easier to complete when compared to part 1.
 
 ## Open-source libraries used
 
